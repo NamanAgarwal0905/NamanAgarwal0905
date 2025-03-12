@@ -10,7 +10,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanAgarwal0905&layout=compact&theme=radical)
 
-[![Holopin Badges](https://holopin.me/NamanAgarwal0905)](https://holopin.io/@NamanAgarwal0905)
 
 
 
