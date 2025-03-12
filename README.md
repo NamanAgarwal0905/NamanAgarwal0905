@@ -22,8 +22,8 @@
 
 ### 🏆 Achievements  
 - 🥈 **2nd Place** - Hackify @ Avishkar TechFest 2024  
-- 🏅 **Top 5** - CodeStart 8.0 Weekend of Code 2025  
-- 📈 **LeetCode** Highest Rating: **1680**  
+- 🏅 **4th place** - logical rhythm @ Avishkar TechFest 2024
+- 📈 **CodeForces** Highest Rating: **1262**  
 
 ---
 
