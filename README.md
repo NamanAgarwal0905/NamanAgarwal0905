@@ -4,6 +4,8 @@
 🌟 Passionate about **ML, NLP, and AI** | Building solutions that bridge language gaps 🌍
 
 ---
+![image](https://github.com/user-attachments/assets/e9687154-f77c-4abc-8a29-3a4bba72c9c8)
+
 
 ### 🛠️ Technical Skills  
 - **Languages:** Python, Java, C  
