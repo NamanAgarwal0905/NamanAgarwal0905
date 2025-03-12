@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Naman Agarwal
 
-<!--
-**NamanAgarwal0905/NamanAgarwal0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Engineer** @ MNNIT Allahabad | **CGPA: 8.50**  
+🌟 Passionate about **ML, NLP, and AI** | Building solutions that bridge language gaps 🌍
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills  
+- **Languages:** Python, Java, C  
+- **Tools & Frameworks:** Git, PyTorch, Transformers, OpenCV, NLTK, sklearn  
+- **Interests:** Real-time translation systems, NLP applications, AI-driven tools  
+
+---
+
+### 🚀 Highlighted Project  
+**🌐 Real-Time Language Translator (Browser Extension)**  
+- Supports **42 languages** (including 16 Indian dialects) for audio translation.  
+- **500+ active users** across 50+ countries.  
+- Built with `yt-dlp`, OpenAI Whisper & TTS, Hugging Face Transformers.  
+
+---
+
+### 🏆 Achievements  
+- 🥈 **2nd Place** - Hackify @ Avishkar TechFest 2024  
+- 🏅 **Top 5** - CodeStart 8.0 Weekend of Code 2025  
+- 📈 **LeetCode** Highest Rating: **1680**  
+
+---
+
+### 📫 Let's Connect  
+- 📧 Email: [namanagarwal0909@gmail.com](mailto:namanagarwal0909@gmail.com)  
+- 💻 LeetCode: [namanok](https://leetcode.com/namanok/)  
+- 🔗 LinkedIn: [Naman Agarwal](https://www.linkedin.com/in/naman-agarwal-a79b44286/)  
+
+*Open to collaborations on NLP/ML projects!* 🤝
