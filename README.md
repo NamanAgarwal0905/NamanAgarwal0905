@@ -4,7 +4,14 @@
 🌟 Passionate about **ML, NLP, and AI** | Building solutions that bridge language gaps 🌍
 
 ---
-![image](https://github.com/user-attachments/assets/e9687154-f77c-4abc-8a29-3a4bba72c9c8)
+
+### My Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=NamanAgarwal0905&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanAgarwal0905&layout=compact&theme=radical)
+
+[![Holopin Badges](https://holopin.me/NamanAgarwal0905)](https://holopin.io/@NamanAgarwal0905)
+
 
 
 ### 🛠️ Technical Skills  
