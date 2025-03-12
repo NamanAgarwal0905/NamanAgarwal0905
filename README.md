@@ -29,7 +29,6 @@
 
 ### 📫 Let's Connect  
 - 📧 Email: [namanagarwal0909@gmail.com](mailto:namanagarwal0909@gmail.com)  
-- 💻 LeetCode: [namanok](https://leetcode.com/namanok/)  
 - 🔗 LinkedIn: [Naman Agarwal](https://www.linkedin.com/in/naman-agarwal-a79b44286/)  
 
 *Open to collaborations on NLP/ML projects!* 🤝
