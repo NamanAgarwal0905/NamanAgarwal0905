@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naman Agarwal
 
-**Computer Science Engineer** @ MNNIT Allahabad | **CGPA: 8.50**  
+**Computer Science Engineer** @ MNNIT Allahabad | **CGPA: 8.57**  
 🌟 Passionate about **ML, NLP, and AI** | Building solutions that bridge language gaps 🌍
 
 ---
